@@ -711,3 +711,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+# rebuild trigger after repo rename
