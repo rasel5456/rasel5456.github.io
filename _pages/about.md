@@ -2,33 +2,50 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CSE Student at Independent University, Bangladesh
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image:
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Machine Learning & Cybersecurity Enthusiast</p>
+    <p>Independent University, Bangladesh</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Hello, I’m MD. Rasel Hossen Sawpon.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Computer Science and Engineering student at **Independent University, Bangladesh (IUB)**. My primary interests are **Machine Learning**, **Cybersecurity**, software development, and future research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently building academic and personal projects to strengthen my programming, problem-solving, and software engineering skills. I plan to keep learning, complete more projects, and gradually begin research in areas that connect intelligent systems with secure technology.
+
+## Research interests
+
+- Machine Learning and Artificial Intelligence
+- Cybersecurity and Information Security
+- Secure Software Development
+- Applied Machine Learning
+- Future research in intelligent and secure systems
+
+## Selected projects
+
+- [TicTacToe Emoji Edition](https://github.com/rasel5456/TicTacToe_emoji_edition) — a Python and Pygame game featuring Player vs Player, Player vs AI, and a Minimax-based AI.
+- [RSL E-commerce Clothing](https://github.com/rasel5456/RSL---E-commerce-clothing) — an e-commerce project built with Next.js and TypeScript.
+- [Bazaro E-commerce](https://github.com/rasel5456/bazaro-ecommerce) — a React, Vite, and Supabase-based e-commerce project.
+
+More projects, research work, and updates will be added as they are completed.
+
+You can explore my work on [GitHub](https://github.com/rasel5456) or connect with me through [LinkedIn](https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210).
