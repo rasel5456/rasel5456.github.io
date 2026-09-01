@@ -44,6 +44,71 @@ I am currently building academic and personal projects to strengthen my programm
 
 [See More Projects]({{ '/projects/' | relative_url }})
 
+## Latest blog posts
+
+{% if site.posts.size > 0 %}
+{% assign latest_posts = site.posts | sort: "date" | reverse %}
+{% for post in latest_posts limit: 3 %}
+- [{{ post.title }}]({{ post.url | relative_url }}){% if post.description %} — {{ post.description }}{% endif %}
+{% endfor %}
+
+[See More Blog Posts]({{ '/blog/' | relative_url }})
+{% else %}
+Blog posts will be added here soon. [Visit Blog]({{ '/blog/' | relative_url }})
+{% endif %}
+
+## Latest books
+
+{% if site.books.size > 0 %}
+{% assign latest_books = site.books | sort: "date" | reverse %}
+{% for book in latest_books limit: 3 %}
+- [{{ book.title }}]({{ book.url | relative_url }}){% if book.author %} — {{ book.author }}{% endif %}
+{% endfor %}
+
+[See More Books]({{ '/books/' | relative_url }})
+{% else %}
+Books will be added here soon. [Visit Books]({{ '/books/' | relative_url }})
+{% endif %}
+
+## Latest news
+
+{% if site.news.size > 0 %}
+{% assign latest_news = site.news | sort: "date" | reverse %}
+{% for item in latest_news limit: 3 %}
+- [{{ item.title }}]({{ item.url | relative_url }}){% if item.description %} — {{ item.description }}{% endif %}
+{% endfor %}
+
+[See More News]({{ '/news/' | relative_url }})
+{% else %}
+News updates will be added here soon. [Visit News]({{ '/news/' | relative_url }})
+{% endif %}
+
+## Latest teaching resources
+
+{% if site.teachings.size > 0 %}
+{% assign latest_teaching = site.teachings | sort: "date" | reverse %}
+{% for item in latest_teaching limit: 3 %}
+- [{{ item.title }}]({{ item.url | relative_url }}){% if item.description %} — {{ item.description }}{% endif %}
+{% endfor %}
+
+[See More Teaching]({{ '/teaching/' | relative_url }})
+{% else %}
+Teaching materials will be added here soon. [Visit Teaching]({{ '/teaching/' | relative_url }})
+{% endif %}
+
+## Latest publications
+
+{% if site.publications.size > 0 %}
+{% assign latest_publications = site.publications | sort: "date" | reverse %}
+{% for item in latest_publications limit: 3 %}
+- [{{ item.title }}]({{ item.url | relative_url }}){% if item.description %} — {{ item.description }}{% endif %}
+{% endfor %}
+
+[See More Publications]({{ '/publications/' | relative_url }})
+{% else %}
+Research publications will be added here when available. [Visit Publications]({{ '/publications/' | relative_url }})
+{% endif %}
+
 ## Social links
 
 Connect with me:
