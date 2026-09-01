@@ -1,8 +1,10 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: Books
 permalink: /books/
-nav: false
+description: Books I am reading, have read, or plan to read, with notes and reflections.
+nav: true
+nav_order: 4
 collection: books
 ---
 
