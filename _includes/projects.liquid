@@ -1,0 +1,19 @@
+{% assign project_url = project.url | relative_url %}
+<div class="card h-100 hoverable project-card">
+  <div class="card-body">
+    <h2 class="card-title">
+      <a href="{{ project_url }}">{{ project.title }}</a>
+    </h2>
+    {% if project.description %}<p class="card-text">{{ project.description }}</p>{% endif %}
+    {% if project.tags %}
+      <div class="project-tech-badges" aria-label="Technologies">
+        {% assign project_tags = project.tags | split: ', ' %}
+        {% for tag in project_tags %}<span class="tech-badge">{{ tag }}</span>{% endfor %}
+      </div>
+    {% endif %}
+    <div class="project-actions">
+      <a class="project-action" href="{{ project_url }}">View Project <i class="fa-solid fa-arrow-right"></i></a>
+      {% if project.github %}<a class="project-action project-source" href="{{ project.github }}" target="_blank" rel="noopener">GitHub <i class="fa-brands fa-github"></i></a>{% endif %}
+    </div>
+  </div>
+</div>

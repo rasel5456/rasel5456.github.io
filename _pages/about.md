@@ -25,6 +25,16 @@ latest_posts:
   enabled: false
 ---
 
+<section class="portfolio-hero">
+  <p class="hero-kicker">BUILDING INTELLIGENT &amp; SECURE TECHNOLOGY</p>
+  <h1>Exploring Machine Learning and Cybersecurity</h1>
+  <p class="hero-summary">Computer Science and Engineering student at IUB, building practical projects and preparing for future research.</p>
+  <div class="hero-actions">
+    <a class="hero-button hero-button-primary" href="{{ '/projects/' | relative_url }}">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
+    <a class="hero-button hero-button-secondary" href="mailto:albertrassel@gmail.com">Contact Me <i class="fa-solid fa-envelope"></i></a>
+  </div>
+</section>
+
 I am a Computer Science and Engineering student at **Independent University, Bangladesh (IUB)**. My primary interests are **Machine Learning**, **Cybersecurity**, software development, and future research.
 
 I am currently building academic and personal projects to strengthen my programming, problem-solving, and software engineering skills. I plan to keep learning, complete more projects, and gradually begin research in areas that connect intelligent systems with secure technology.
@@ -128,5 +138,4 @@ Academic, project, internship, research, and professional experience will be add
 Awards, certifications, competitions, and important milestones will be added here over time.
 
 [See More Achievements]({{ '/achievements/' | relative_url }})
-
 
