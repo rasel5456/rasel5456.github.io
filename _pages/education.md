@@ -21,7 +21,7 @@ nav_order: 11
 
 ### Independent University, Bangladesh (IUB)
 
-**Program:** Bachelor’s degree in Computer Science and Engineering  
+**Program:** BSc in Computer Science and Engineering  
 **Status:** Current student
 
 More academic details, coursework, certifications, and future educational milestones will be added here.
