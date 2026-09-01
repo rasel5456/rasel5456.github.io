@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: CSE Student at Independent University, Bangladesh
 
 description: MD. Rasel Hossen Sawpon is a Computer Science and Engineering student at Independent University, Bangladesh, focused on Machine Learning, Cybersecurity, software development, and future research.
 profile:
@@ -12,17 +11,19 @@ profile:
   more_info: >
     <p>Machine Learning & Cybersecurity Enthusiast</p>
     <p>Independent University, Bangladesh</p>
-    <p><a href="mailto:albertrassel@gmail.com">albertrassel@gmail.com</a></p>
+    <div class="profile-social-links" style="display:flex; gap:1rem; align-items:center; font-size:1.6rem; margin-top:0.75rem;">
+      <a href="https://www.facebook.com/share/17WBAQchmQ/" aria-label="Facebook" title="Facebook" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
+      <a href="mailto:albertrassel@gmail.com" aria-label="Email" title="Email"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
 
 selected_papers: false
-social: true
+social: false
 announcements:
   enabled: false
 latest_posts:
   enabled: false
 ---
-
-## Hello, I’m MD. Rasel Hossen Sawpon.
 
 I am a Computer Science and Engineering student at **Independent University, Bangladesh (IUB)**. My primary interests are **Machine Learning**, **Cybersecurity**, software development, and future research.
 
@@ -127,17 +128,5 @@ Academic, project, internship, research, and professional experience will be add
 Awards, certifications, competitions, and important milestones will be added here over time.
 
 [See More Achievements]({{ '/achievements/' | relative_url }})
-
-## Social links
-
-Connect with me:
-
-<a href="mailto:albertrassel@gmail.com" aria-label="Email" title="Email"><i class="fa-solid fa-envelope"></i> albertrassel@gmail.com</a>
-
-<div class="social-links" style="display:flex; gap:1rem; align-items:center; font-size:1.8rem;">
-  <a href="https://github.com/rasel5456" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github"></i></a>
-  <a href="https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-  <a href="https://www.facebook.com/share/17WBAQchmQ/" aria-label="Facebook" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
-</div>
 
 
