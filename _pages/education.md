@@ -9,6 +9,16 @@ nav_order: 11
 
 ## Education
 
+### Secondary School Certificate (SSC)
+
+**Institution:** Banglabazar High School, Rangpur  
+**Result:** GPA 5.00
+
+### Higher Secondary Certificate (HSC)
+
+**Institution:** Haragach Government College, Rangpur  
+**Result:** GPA 4.08
+
 ### Independent University, Bangladesh (IUB)
 
 **Program:** Bachelor’s degree in Computer Science and Engineering  
