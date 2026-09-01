@@ -1,5 +1,5 @@
 ---
-date: 2026-09-02
+date: 2026-08-01
 title: TicTacToe Emoji Edition
 description: A Python and Pygame Tic Tac Toe game with Minimax AI.
 importance: 1
