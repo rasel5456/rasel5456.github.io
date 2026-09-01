@@ -129,6 +129,16 @@ div#notebook {
   background-color: #ffffff;
 }
 
+#header .header-bar {
+  background: #ffffff;
+  background-color: #ffffff;
+}
+
+body > #header .header-bar {
+  width: 100%;
+  background: #ffffff;
+}
+
 .navbar {
   border: none;
 }
@@ -279,6 +289,14 @@ div#notebook {
   background-color: #ffccac !important;
   border-color: #ffccac !important;
   transition: 200ms ease !important;
+}
+
+
+.btn-sm {
+  font-size: inherit;
+  font-weight: normal;
+  height: inherit;
+  line-height: inherit;
 }
 
 button.close {
