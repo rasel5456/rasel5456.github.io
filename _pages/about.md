@@ -12,6 +12,7 @@ profile:
   more_info: >
     <p>Machine Learning & Cybersecurity Enthusiast</p>
     <p>Independent University, Bangladesh</p>
+    <p><a href="mailto:albertrassel@gmail.com">albertrassel@gmail.com</a></p>
 
 selected_papers: false
 social: true
@@ -130,6 +131,8 @@ Awards, certifications, competitions, and important milestones will be added her
 ## Social links
 
 Connect with me:
+
+<a href="mailto:albertrassel@gmail.com" aria-label="Email" title="Email"><i class="fa-solid fa-envelope"></i> albertrassel@gmail.com</a>
 
 <div class="social-links" style="display:flex; gap:1rem; align-items:center; font-size:1.8rem;">
   <a href="https://github.com/rasel5456" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github"></i></a>

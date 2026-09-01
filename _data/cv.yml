@@ -1,7 +1,7 @@
 cv:
   name: MD. Rasel Hossen Sawpon
   label: CSE Student | ML and Cybersecurity Enthusiast
-  email: ""
+  email: albertrassel@gmail.com
   location: Bangladesh
   image: ""
   summary: Computer Science and Engineering student at Independent University, Bangladesh, interested in Machine Learning, Cybersecurity, software development, and future research.
@@ -16,7 +16,7 @@ cv:
     Education:
       - institution: Independent University, Bangladesh
         area: Computer Science and Engineering
-        studyType: Bachelor's Degree
+        studyType: BSc in Computer Science and Engineering
         end_date: Present
         highlights:
           - Currently studying Computer Science and Engineering.
