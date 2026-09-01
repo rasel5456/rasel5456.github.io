@@ -14,16 +14,10 @@ profile:
 
 selected_papers: false
 social: true
-
 announcements:
   enabled: false
-  scrollable: true
-  limit: 5
-
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
 ---
 
 ## Hello, I’m MD. Rasel Hossen Sawpon.
@@ -40,12 +34,15 @@ I am currently building academic and personal projects to strengthen my programm
 - Applied Machine Learning
 - Future research in intelligent and secure systems
 
-## Selected projects
+## Latest projects
 
-- [TicTacToe Emoji Edition](https://github.com/rasel5456/TicTacToe_emoji_edition) — a Python and Pygame game featuring Player vs Player, Player vs AI, and a Minimax-based AI.
-- [RSL E-commerce Clothing](https://github.com/rasel5456/RSL---E-commerce-clothing) — an e-commerce project built with Next.js and TypeScript.
-- [Bazaro E-commerce](https://github.com/rasel5456/bazaro-ecommerce) — a React, Vite, and Supabase-based e-commerce project.
+{% assign latest_projects = site.projects | sort: "date" | reverse %}
+{% for project in latest_projects limit: 3 %}
+  {% include projects.liquid %}
+{% endfor %}
 
-More projects, research work, and updates will be added as they are completed.
+[See More Projects]({{ '/projects/' | relative_url }})
 
-You can explore my work on [GitHub](https://github.com/rasel5456) or connect with me through [LinkedIn](https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210).
+## Social links
+
+Connect with me on [GitHub](https://github.com/rasel5456), [LinkedIn](https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210), and [Facebook](https://www.facebook.com/share/17WBAQchmQ/).
