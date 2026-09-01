@@ -102,7 +102,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1000px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -112,6 +112,7 @@ max_width: 930px
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
+enable_navbar_social: true # Show clickable social icons in the navigation bar
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

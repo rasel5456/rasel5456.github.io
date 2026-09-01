@@ -1,0 +1,79 @@
+// Portfolio-specific visual overrides.
+// Keep the theme's layout intact while adding a modern ML/cybersecurity palette.
+
+:root {
+  --global-theme-color: #0ea5e9;
+  --global-hover-color: #0284c7;
+  --global-hover-text-color: #ffffff;
+  --global-text-color: #172033;
+  --global-text-color-light: #64748b;
+  --global-bg-color: #f8fafc;
+  --global-code-bg-color: #eef6ff;
+  --global-card-bg-color: #ffffff;
+  --global-divider-color: #dbeafe;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--global-bg-color);
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(14, 165, 233, 0.18);
+  box-shadow: 0 4px 18px rgba(15, 23, 42, 0.06);
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.page h1,
+.page h2,
+.page h3,
+.page h4 {
+  letter-spacing: -0.02em;
+}
+
+.card,
+.projects .card,
+.publications .card {
+  border: 1px solid rgba(14, 165, 233, 0.14);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.card:hover,
+.projects .card:hover,
+.publications .card:hover {
+  border-color: rgba(14, 165, 233, 0.45);
+  box-shadow: 0 14px 30px rgba(14, 116, 144, 0.14);
+  transform: translateY(-3px);
+}
+
+.social-links a {
+  color: var(--global-theme-color);
+  transition: color 160ms ease, transform 160ms ease;
+}
+
+.social-links a:hover {
+  color: var(--global-hover-color);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.btn,
+button,
+.btn-primary {
+  border-radius: 9px;
+}
+
+@media (max-width: 576px) {
+  .card,
+  .projects .card {
+    border-radius: 11px;
+  }
+}
