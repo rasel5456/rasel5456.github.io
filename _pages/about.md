@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: CSE Student at Independent University, Bangladesh
 
+description: MD. Rasel Hossen Sawpon is a Computer Science and Engineering student at Independent University, Bangladesh, focused on Machine Learning, Cybersecurity, software development, and future research.
 profile:
   align: right
   image:
