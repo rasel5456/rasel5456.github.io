@@ -109,6 +109,24 @@ Teaching materials will be added here soon. [Visit Teaching]({{ '/teaching/' | r
 Research publications will be added here when available. [Visit Publications]({{ '/publications/' | relative_url }})
 {% endif %}
 
+## Education
+
+I am currently studying Computer Science and Engineering at **Independent University, Bangladesh (IUB)**.
+
+[See More Education]({{ '/education/' | relative_url }})
+
+## Experience
+
+Academic, project, internship, research, and professional experience will be added here as they grow.
+
+[See More Experience]({{ '/experience/' | relative_url }})
+
+## Achievements
+
+Awards, certifications, competitions, and important milestones will be added here over time.
+
+[See More Achievements]({{ '/achievements/' | relative_url }})
+
 ## Social links
 
 Connect with me:

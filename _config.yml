@@ -193,6 +193,10 @@ collections:
     output: true
   teachings:
     output: true
+  experiences:
+    output: true
+  achievements:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
