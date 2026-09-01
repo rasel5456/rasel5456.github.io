@@ -54,8 +54,4 @@ Connect with me:
   <a href="https://www.facebook.com/share/17WBAQchmQ/" aria-label="Facebook" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
 </div>
 
-<div class="social-links" style="display:flex; gap:1rem; align-items:center; font-size:1.8rem;">
-  <a href="https://github.com/rasel5456" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github"></i></a>
-  <a href="https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-  <a href="https://www.facebook.com/share/17WBAQchmQ/" aria-label="Facebook" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
-</div>
+
