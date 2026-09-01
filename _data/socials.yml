@@ -5,6 +5,11 @@ rss_icon: true
 github_username: rasel5456
 linkedin_username: md-rasel-hossen-sawpon-8a70aa210
 
+custom_social:
+  logo: https://cdn.simpleicons.org/facebook/1877F2
+  title: Facebook
+  url: https://www.facebook.com/share/17WBAQchmQ/
+
 # Add your own Google Scholar ID after you have a profile.
 # scholar_userid:
 
