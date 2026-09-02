@@ -6,7 +6,7 @@ permalink: /
 description: MD. Rasel Hossen Sawpon is a Computer Science and Engineering student at Independent University, Bangladesh, focused on Machine Learning, Cybersecurity, software development, and future research.
 profile:
   align: right
-  image:
+  image: profile-photo.webp
   image_circular: true
   more_info: >
     <p>Machine Learning & Cybersecurity Enthusiast</p>
@@ -28,7 +28,7 @@ latest_posts:
 
 <section class="portfolio-hero">
   <p class="hero-kicker">BUILDING INTELLIGENT &amp; SECURE TECHNOLOGY</p>
-  <h1>Exploring Machine Learning and Cybersecurity</h1>
+  <h2>Exploring Machine Learning and Cybersecurity</h2>
   <p class="hero-summary">Computer Science and Engineering student at IUB, building practical projects and preparing for future research.</p>
   <div class="hero-actions">
     <a class="hero-button hero-button-primary" href="{{ '/projects/' | relative_url }}">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
