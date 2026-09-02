@@ -1,4 +1,5 @@
 ---
+layout: page
 date: 2026-08-31
 title: Bazaro E-commerce
 description: Bazaro is a React and Vite e-commerce web application using Supabase, PostgreSQL, authentication, cart management, and order placement.

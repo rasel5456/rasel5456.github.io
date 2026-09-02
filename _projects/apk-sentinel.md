@@ -1,4 +1,5 @@
 ---
+layout: page
 date: 2026-09-02
 title: APK Sentinel
 description: APK Sentinel is a browser-based Android APK security analysis tool with explainable static risk scoring, permission inspection, and downloadable reports.

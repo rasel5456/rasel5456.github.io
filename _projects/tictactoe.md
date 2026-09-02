@@ -1,4 +1,5 @@
 ---
+layout: page
 date: 2026-08-01
 title: TicTacToe Emoji Edition
 description: TicTacToe Emoji Edition is a Python and Pygame Tic Tac Toe game with Minimax AI, animations, score tracking, and sound effects.

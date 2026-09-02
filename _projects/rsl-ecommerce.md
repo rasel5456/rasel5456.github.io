@@ -1,4 +1,5 @@
 ---
+layout: page
 date: 2026-09-01
 title: RSL E-commerce Clothing
 description: RSL E-commerce Clothing is a responsive Next.js and TypeScript clothing store project focused on product browsing and modern web development.
