@@ -1,7 +1,8 @@
 ---
 date: 2026-08-01
 title: TicTacToe Emoji Edition
-description: A Python and Pygame Tic Tac Toe game with Minimax AI.
+description: TicTacToe Emoji Edition is a Python and Pygame Tic Tac Toe game with Minimax AI, animations, score tracking, and sound effects.
+og_image: /assets/img/og-profile.webp
 importance: 1
 github: https://github.com/rasel5456/TicTacToe_emoji_edition
 tags:
@@ -10,7 +11,7 @@ tags:
   - Minimax
   - Game Development
 ---
-A Python and Pygame Tic Tac Toe game and my first GitHub project while learning Python and game development.
+TicTacToe Emoji Edition is a Python and Pygame desktop game created while learning Python and game development. It includes Player versus Player and Player versus AI modes, a Minimax-based artificial intelligence opponent, animations, score tracking, and sound effects. This project demonstrates Python programming, game logic, algorithmic problem solving, and user interface development.
 
 ### Key features
 

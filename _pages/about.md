@@ -6,7 +6,7 @@ permalink: /
 description: MD. Rasel Hossen Sawpon is a Bangladesh-based web developer, Machine Learning enthusiast, and Cybersecurity enthusiast studying Computer Science and Engineering at Independent University, Bangladesh (IUB).
 profile:
   align: right
-  image: profile-photo.webp
+  image: md-rasel-hossen-sawpon-profile.webp
   image_circular: true
   more_info: >
     <p>Machine Learning & Cybersecurity Enthusiast</p>
@@ -32,7 +32,7 @@ latest_posts:
   "@type": "Person",
   "name": "MD. Rasel Hossen Sawpon",
   "url": "https://rasel5456.github.io/",
-  "image": "https://rasel5456.github.io/assets/img/profile-photo.webp",
+  "image": "https://rasel5456.github.io/assets/img/md-rasel-hossen-sawpon-profile.webp",
   "jobTitle": "Web Developer and Cybersecurity Enthusiast",
   "description": "Bangladesh-based Computer Science and Engineering student focused on web development, Machine Learning, and Cybersecurity.",
   "affiliation": {

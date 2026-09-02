@@ -1,7 +1,8 @@
 ---
 date: 2026-08-31
 title: Bazaro E-commerce
-description: A React, Vite, and Supabase-based e-commerce project.
+description: Bazaro is a React and Vite e-commerce web application using Supabase, PostgreSQL, authentication, cart management, and order placement.
+og_image: /assets/img/og-profile.webp
 importance: 3
 github: https://github.com/rasel5456/bazaro-ecommerce
 tags:
@@ -10,7 +11,7 @@ tags:
   - Supabase
   - PostgreSQL
 ---
-A deployable e-commerce project using React, Vite, and Supabase. It includes authentication, product data, cart functionality, and order placement backed by PostgreSQL.
+Bazaro is a React and Vite e-commerce web application built with Supabase and PostgreSQL. It includes authentication, product data, product browsing, cart management, and order placement. The project demonstrates frontend development, database-backed application design, responsive user interfaces, and secure data access patterns.
 
 ### Highlights
 
