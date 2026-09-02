@@ -14,6 +14,7 @@ profile:
     <div class="profile-social-links" style="display:flex; gap:1rem; align-items:center; font-size:1.6rem; margin-top:0.75rem;">
       <a href="https://www.facebook.com/share/17WBAQchmQ/" aria-label="Facebook" title="Facebook" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
       <a href="mailto:albertrassel@gmail.com" aria-label="Email" title="Email"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://github.com/rasel5456" aria-label="GitHub" title="GitHub" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
       <a href="https://linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
     </div>
 
@@ -138,4 +139,3 @@ Academic, project, internship, research, and professional experience will be add
 Awards, certifications, competitions, and important milestones will be added here over time.
 
 [See More Achievements]({{ '/achievements/' | relative_url }})
-
