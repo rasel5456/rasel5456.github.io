@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: MD. Rasel Hossen Sawpon | Web Developer & Cybersecurity Enthusiast
 permalink: /
 
 description: MD. Rasel Hossen Sawpon is a Bangladesh-based web developer, Machine Learning enthusiast, and Cybersecurity enthusiast studying Computer Science and Engineering at Independent University, Bangladesh (IUB).
