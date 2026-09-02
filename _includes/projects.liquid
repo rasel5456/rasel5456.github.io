@@ -7,8 +7,7 @@
     {% if project.description %}<p class="card-text">{{ project.description }}</p>{% endif %}
     {% if project.tags %}
       <div class="project-tech-badges" aria-label="Technologies">
-        {% assign project_tags = project.tags | split: ', ' %}
-        {% for tag in project_tags %}<span class="tech-badge">{{ tag }}</span>{% endfor %}
+        {% for tag in project.tags %}<span class="tech-badge">{{ tag }}</span>{% endfor %}
       </div>
     {% endif %}
     <div class="project-actions">

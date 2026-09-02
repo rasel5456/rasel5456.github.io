@@ -4,7 +4,10 @@ title: RSL E-commerce Clothing
 description: A clothing e-commerce project built with Next.js and TypeScript.
 importance: 2
 github: https://github.com/rasel5456/RSL---E-commerce-clothing
-tags: Next.js, TypeScript, E-commerce
+tags:
+  - Next.js
+  - TypeScript
+  - E-commerce
 ---
 A clothing e-commerce project built with Next.js and TypeScript, focused on product browsing and a modern shopping experience.
 

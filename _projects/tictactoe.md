@@ -4,7 +4,11 @@ title: TicTacToe Emoji Edition
 description: A Python and Pygame Tic Tac Toe game with Minimax AI.
 importance: 1
 github: https://github.com/rasel5456/TicTacToe_emoji_edition
-tags: Python, Pygame, Minimax, Game Development
+tags:
+  - Python
+  - Pygame
+  - Minimax
+  - Game Development
 ---
 A Python and Pygame Tic Tac Toe game and my first GitHub project while learning Python and game development.
 
