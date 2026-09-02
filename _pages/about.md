@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-description: MD. Rasel Hossen Sawpon is a Computer Science and Engineering student at Independent University, Bangladesh, focused on Machine Learning, Cybersecurity, software development, and future research.
+description: MD. Rasel Hossen Sawpon is a Bangladesh-based web developer, Machine Learning enthusiast, and Cybersecurity enthusiast studying Computer Science and Engineering at Independent University, Bangladesh (IUB).
 profile:
   align: right
   image: profile-photo.webp
@@ -26,10 +26,32 @@ latest_posts:
   enabled: false
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "MD. Rasel Hossen Sawpon",
+  "url": "https://rasel5456.github.io/",
+  "image": "https://rasel5456.github.io/assets/img/profile-photo.webp",
+  "jobTitle": "Web Developer and Cybersecurity Enthusiast",
+  "description": "Bangladesh-based Computer Science and Engineering student focused on web development, Machine Learning, and Cybersecurity.",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Independent University, Bangladesh"
+  },
+  "sameAs": [
+    "https://github.com/rasel5456",
+    "https://www.linkedin.com/in/md-rasel-hossen-sawpon-8a70aa210",
+    "https://www.facebook.com/share/17WBAQchmQ/"
+  ],
+  "knowsAbout": ["Web Development", "Cybersecurity", "Machine Learning", "JavaScript", "React", "Next.js"]
+}
+</script>
+
 <section class="portfolio-hero">
   <p class="hero-kicker">BUILDING INTELLIGENT &amp; SECURE TECHNOLOGY</p>
   <h2>Exploring Machine Learning and Cybersecurity</h2>
-  <p class="hero-summary">Computer Science and Engineering student at IUB, building practical projects and preparing for future research.</p>
+  <p class="hero-summary">MD. Rasel Hossen Sawpon is a Bangladesh-based web developer and Cybersecurity enthusiast studying Computer Science and Engineering at IUB, building practical software and Machine Learning projects.</p>
   <div class="hero-actions">
     <a class="hero-button hero-button-primary" href="{{ '/projects/' | relative_url }}">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
     <a class="hero-button hero-button-secondary" href="mailto:albertrassel@gmail.com">Contact Me <i class="fa-solid fa-envelope"></i></a>

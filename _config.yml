@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: MD. Rasel Hossen Sawpon # the website title
+title: MD. Rasel Hossen Sawpon | Web Developer & Cybersecurity Enthusiast # the website title
 first_name: MD. Rasel
 middle_name: Hossen
 last_name: Sawpon
 contact_note: >
   Feel free to connect with me at albertrassel@gmail.com, or through LinkedIn and GitHub.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Computer Science and Engineering student at Independent University, Bangladesh (IUB), interested in Machine Learning, Cybersecurity, software development, and future research.
+  MD. Rasel Hossen Sawpon is a Bangladesh-based Computer Science and Engineering student, web developer, Machine Learning enthusiast, and Cybersecurity researcher-in-training at Independent University, Bangladesh (IUB).
 footer_text: >
   © 2026 MD. Rasel Hossen Sawpon. Built with curiosity and code.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: MD Rasel Hossen Sawpon, Rasel 5456, CSE student Bangladesh, Independent University Bangladesh, IUB CSE, Machine Learning, Artificial Intelligence, Cybersecurity, Information Security, software development, future researcher
+keywords: MD Rasel Hossen Sawpon, MD. Rasel Hossen Sawpon Bangladesh, Rasel Sawpon, web developer Bangladesh, cybersecurity enthusiast Bangladesh, machine learning enthusiast Bangladesh, software developer, React developer, Next.js developer, JavaScript developer, Independent University Bangladesh, IUB CSE, artificial intelligence, information security
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
