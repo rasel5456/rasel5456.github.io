@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Published projects
+title: Projects
 permalink: /projects/
 description: Software development projects by MD. Rasel Hossen Sawpon, including browser-based cybersecurity tools, React and Next.js applications, TypeScript, JavaScript, and applied Machine Learning work.
 nav: true
