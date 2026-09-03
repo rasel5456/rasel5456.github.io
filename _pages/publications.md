@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications by MD. Rasel Hossen Sawpon
+title: Publications & technical notes
 description: Research publications and verifiable technical writing by MD. Rasel Hossen Sawpon, listed in reverse chronological order.
 nav: true
 nav_order: 2
