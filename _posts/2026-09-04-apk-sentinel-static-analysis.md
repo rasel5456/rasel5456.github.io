@@ -2,8 +2,8 @@
 layout: post
 title: "How APK Sentinel keeps Android APK analysis client-side"
 description: "A project note on APK Sentinel's browser-based static analysis workflow, explainable heuristic scoring, and downloadable JSON reports."
-date: 2026-09-04
-last_updated: 2026-09-04
+date: 2026-09-03
+last_updated: 2026-09-03
 tags: [cybersecurity, android, javascript, static-analysis]
 categories: [projects]
 author: MD. Rasel Hossen Sawpon
