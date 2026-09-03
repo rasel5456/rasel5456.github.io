@@ -1,9 +1,9 @@
 ---
 layout: about
-title: MD. Rasel Hossen Sawpon | Web Developer & Cybersecurity Enthusiast
+title: MD. Rasel Hossen Sawpon — Web Developer & Cybersecurity Enthusiast
 permalink: /
 
-description: MD. Rasel Hossen Sawpon is a Bangladesh-based web developer, Machine Learning enthusiast, and Cybersecurity enthusiast studying Computer Science and Engineering at Independent University, Bangladesh (IUB).
+description: MD. Rasel Hossen Sawpon is a Bangladesh-based Computer Science and Engineering student at Independent University, Bangladesh (IUB), building web applications and defensive cybersecurity tools while exploring applied Machine Learning.
 profile:
   align: right
   image: md-rasel-hossen-sawpon-profile.webp
@@ -34,7 +34,7 @@ latest_posts:
   "url": "https://rasel5456.github.io/",
   "image": "https://rasel5456.github.io/assets/img/md-rasel-hossen-sawpon-profile.webp",
   "jobTitle": "Web Developer and Cybersecurity Enthusiast",
-  "description": "Bangladesh-based Computer Science and Engineering student focused on web development, Machine Learning, and Cybersecurity.",
+  "description": "Bangladesh-based Computer Science and Engineering student at Independent University, Bangladesh, building web applications and defensive cybersecurity tools while exploring applied Machine Learning.",
   "affiliation": {
     "@type": "CollegeOrUniversity",
     "name": "Independent University, Bangladesh"
@@ -89,7 +89,7 @@ I am currently building academic and personal projects to strengthen my programm
 
 [See More Blog Posts]({{ '/blog/' | relative_url }})
 {% else %}
-Blog posts will be added here soon. [Visit Blog]({{ '/blog/' | relative_url }})
+No technical notes are published yet. The blog is reserved for first-hand project decisions, experiments, and learning notes—not generic SEO content. [Open the blog]({{ '/blog/' | relative_url }})
 {% endif %}
 
 ## Latest books
@@ -102,7 +102,7 @@ Blog posts will be added here soon. [Visit Blog]({{ '/blog/' | relative_url }})
 
 [See More Books]({{ '/books/' | relative_url }})
 {% else %}
-Books will be added here soon. [Visit Books]({{ '/books/' | relative_url }})
+No books are currently listed. [View the books section]({{ '/books/' | relative_url }})
 {% endif %}
 
 ## Latest news
@@ -115,7 +115,7 @@ Books will be added here soon. [Visit Books]({{ '/books/' | relative_url }})
 
 [See More News]({{ '/news/' | relative_url }})
 {% else %}
-News updates will be added here soon. [Visit News]({{ '/news/' | relative_url }})
+No news entries are currently listed. [View updates]({{ '/news/' | relative_url }})
 {% endif %}
 
 ## Latest teaching resources
@@ -128,7 +128,7 @@ News updates will be added here soon. [Visit News]({{ '/news/' | relative_url }}
 
 [See More Teaching]({{ '/teaching/' | relative_url }})
 {% else %}
-Teaching materials will be added here soon. [Visit Teaching]({{ '/teaching/' | relative_url }})
+No teaching resources are currently listed. Future entries will include a topic, audience, date, and reusable materials. [View teaching]({{ '/teaching/' | relative_url }})
 {% endif %}
 
 ## Latest publications
@@ -141,7 +141,7 @@ Teaching materials will be added here soon. [Visit Teaching]({{ '/teaching/' | r
 
 [See More Publications]({{ '/publications/' | relative_url }})
 {% else %}
-Research publications will be added here when available. [Visit Publications]({{ '/publications/' | relative_url }})
+No publications are currently listed. Future research outputs will be added with authorship, date, abstract, and a verifiable source. [View publications]({{ '/publications/' | relative_url }})
 {% endif %}
 
 ## Education
@@ -152,12 +152,12 @@ I am currently studying Computer Science and Engineering at **Independent Univer
 
 ## Experience
 
-Academic, project, internship, research, and professional experience will be added here as they grow.
+This section will document verified academic, project, internship, research, and professional experience with dates and evidence as those records become available.
 
 [See More Experience]({{ '/experience/' | relative_url }})
 
 ## Achievements
 
-Awards, certifications, competitions, and important milestones will be added here over time.
+This section will document verified awards, certifications, competitions, and milestones with dates and supporting links as they become available.
 
 [See More Achievements]({{ '/achievements/' | relative_url }})

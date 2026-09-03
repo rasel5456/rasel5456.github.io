@@ -2,7 +2,7 @@
 layout: page
 permalink: /education/
 title: Education
-description: Educational background of MD. Rasel Hossen Sawpon, including Computer Science and Engineering studies at Independent University, Bangladesh.
+description: Educational background of MD. Rasel Hossen Sawpon, including Computer Science and Engineering studies at Independent University, Bangladesh, and verified secondary-school results.
 nav: true
 nav_order: 11
 ---
@@ -24,4 +24,4 @@ nav_order: 11
 **Institution:** Banglabazar High School, Rangpur  
 **Result:** GPA 5.00
 
-More academic details, coursework, certifications, and future educational milestones will be added here.
+This page records the currently published academic history. Coursework, certifications, and future educational milestones will be added only when they can be described with a date, institution, or verifiable source.
