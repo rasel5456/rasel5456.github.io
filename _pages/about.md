@@ -30,6 +30,7 @@ latest_posts:
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://rasel5456.github.io/#person",
   "name": "MD. Rasel Hossen Sawpon",
   "url": "https://rasel5456.github.io/",
   "image": "https://rasel5456.github.io/assets/img/md-rasel-hossen-sawpon-profile.webp",
@@ -77,7 +78,7 @@ I am currently building academic and personal projects to strengthen my programm
   {% include projects.liquid %}
 {% endfor %}
 
-[See More Projects]({{ '/projects/' | relative_url }})
+[See More Projects]({{ '/projects/' | relative_url }}) · [About]({{ '/about/' | relative_url }})
 
 ## Latest blog posts
 

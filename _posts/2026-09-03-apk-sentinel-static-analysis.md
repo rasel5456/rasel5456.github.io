@@ -10,6 +10,20 @@ author: MD. Rasel Hossen Sawpon
 related_posts: false
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How APK Sentinel keeps Android APK analysis client-side",
+  "description": "A project note on APK Sentinel's browser-based static analysis workflow, explainable heuristic scoring, and downloadable JSON reports.",
+  "datePublished": "2026-09-03",
+  "dateModified": "2026-09-03",
+  "mainEntityOfPage": "https://rasel5456.github.io/blog/2026/apk-sentinel-static-analysis/",
+  "author": { "@id": "https://rasel5456.github.io/#person" },
+  "publisher": { "@id": "https://rasel5456.github.io/#person" }
+}
+</script>
+
 APK Sentinel is a browser-based defensive cybersecurity tool for authorized Android APK static analysis. The project is designed around a simple boundary: inspect a sample without uploading, installing, or executing it.
 
 ## What the tool examines
