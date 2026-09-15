@@ -127,10 +127,7 @@ a:hover {
 .portfolio-hero {
   position: relative;
   overflow: hidden;
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.8fr);
-  gap: clamp(2rem, 6vw, 6rem);
-  align-items: end;
+  display: block;
   margin: 1.5rem 0 4.5rem;
   padding: clamp(2rem, 6vw, 5.5rem) clamp(1.4rem, 5vw, 5rem);
   border: 1px solid rgba(23, 37, 33, 0.12);
@@ -153,6 +150,10 @@ a:hover {
   transform: rotate(-18deg);
 }
 
+.portfolio-hero .hero-copy {
+  max-width: 850px;
+}
+
 .portfolio-hero .hero-kicker {
   margin: 0 0 1.4rem;
   color: var(--signal-amber);
@@ -165,7 +166,7 @@ a:hover {
 
 .portfolio-hero h1,
 .portfolio-hero h2 {
-  max-width: 720px;
+  max-width: 760px;
   margin: 0;
   color: #fffaf0;
   font-family: var(--display-font);
@@ -550,27 +551,8 @@ footer {
 
 @media (max-width: 800px) {
   .portfolio-hero {
-    grid-template-columns: 1fr;
-    gap: 2rem;
     margin-bottom: 3.5rem;
     box-shadow: 10px 10px 0 var(--signal-amber-soft);
-  }
-
-  .portfolio-hero .hero-art {
-    min-height: 170px;
-    justify-content: start;
-  }
-
-  .portfolio-hero .hero-art-frame {
-    width: min(78%, 340px);
-  }
-
-  .portfolio-hero .hero-art img {
-    width: 100%;
-  }
-
-  .hero-art-note {
-    right: 4%;
   }
 }
 

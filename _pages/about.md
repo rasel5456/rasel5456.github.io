@@ -59,10 +59,6 @@ latest_posts:
       <a class="hero-button hero-button-secondary" href="mailto:albertrassel@gmail.com">Start a conversation <i class="fa-solid fa-envelope"></i></a>
     </div>
   </div>
-  <div class="hero-art" aria-label="Profile visual and current focus">
-    <div class="hero-art-frame"><img src="{{ '/assets/img/md-rasel-hossen-sawpon-profile.webp' | relative_url }}" alt="Portrait of MD. Rasel Hossen Sawpon" /></div>
-    <div class="hero-art-note"><span>01</span><b>Current focus</b><small>Secure, useful software</small></div>
-  </div>
 </section>
 
 I am a Computer Science and Engineering student at **Independent University, Bangladesh (IUB)**. My primary interests are **Machine Learning**, **Cybersecurity**, software development, and future research.
