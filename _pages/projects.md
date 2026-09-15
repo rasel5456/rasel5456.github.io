@@ -8,6 +8,12 @@ nav_order: 3
 horizontal: false
 ---
 
+<div class="page-intro">
+  <p class="page-eyebrow">SELECTED WORK / 01</p>
+  <h2>Useful interfaces. Safer systems.</h2>
+  <p>These are practical builds from the intersection of web development, defensive cybersecurity, and applied Machine Learning. Each project page keeps the scope, stack, and limitations visible.</p>
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

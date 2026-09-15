@@ -7,8 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
+<div class="page-intro">
+  <p class="page-eyebrow">PUBLICATIONS / 02</p>
+  <h2>Work worth citing.</h2>
+  <p>Research outputs will appear here with authorship, dates, abstracts, and stable links. Until then, the technical notes record the decisions behind the work.</p>
+</div>
 
-No peer-reviewed publications are currently listed. This page will contain author names, publication dates, abstracts, and stable links when a research output is ready to share. In the meantime, first-hand project notes are published on the [blog](/blog/).
+<div class="editorial-empty-state">
+  <span class="empty-state-mark">02</span>
+  <div>
+    <h3>No peer-reviewed publications yet.</h3>
+    <p>This page stays intentionally honest. For current first-hand writing, read the <a href="{{ '/blog/' | relative_url }}">technical notes</a>.</p>
+  </div>
+</div>
 
 <!-- Add BibTeX entries to _bibliography/papers.bib when you begin publishing. -->

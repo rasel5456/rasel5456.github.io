@@ -50,12 +50,18 @@ latest_posts:
 </script>
 
 <section class="portfolio-hero">
-  <p class="hero-kicker">BUILDING INTELLIGENT &amp; SECURE TECHNOLOGY</p>
-  <h2>Exploring Machine Learning and Cybersecurity</h2>
-  <p class="hero-summary">MD. Rasel Hossen Sawpon is a Bangladesh-based web developer and Cybersecurity enthusiast studying Computer Science and Engineering at IUB, building practical software and Machine Learning projects.</p>
-  <div class="hero-actions">
-    <a class="hero-button hero-button-primary" href="{{ '/projects/' | relative_url }}">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
-    <a class="hero-button hero-button-secondary" href="mailto:albertrassel@gmail.com">Contact Me <i class="fa-solid fa-envelope"></i></a>
+  <div class="hero-copy">
+    <p class="hero-kicker">WEB DEVELOPMENT · CYBERSECURITY · MACHINE LEARNING</p>
+    <h2>Build systems people can <em>understand.</em></h2>
+    <p class="hero-summary">MD. Rasel Hossen Sawpon is a Bangladesh-based web developer and Cybersecurity enthusiast studying Computer Science and Engineering at IUB. This is a working portfolio of practical software, defensive tools, and careful experiments.</p>
+    <div class="hero-actions">
+      <a class="hero-button hero-button-primary" href="{{ '/projects/' | relative_url }}">Explore Projects <i class="fa-solid fa-arrow-right"></i></a>
+      <a class="hero-button hero-button-secondary" href="mailto:albertrassel@gmail.com">Start a conversation <i class="fa-solid fa-envelope"></i></a>
+    </div>
+  </div>
+  <div class="hero-art" aria-label="Profile visual and current focus">
+    <div class="hero-art-frame"><img src="{{ '/assets/img/md-rasel-hossen-sawpon-profile.webp' | relative_url }}" alt="Portrait of MD. Rasel Hossen Sawpon" /></div>
+    <div class="hero-art-note"><span>01</span><b>Current focus</b><small>Secure, useful software</small></div>
   </div>
 </section>
 
@@ -71,7 +77,9 @@ I am currently building academic and personal projects to strengthen my programm
 - Applied Machine Learning
 - Future research in intelligent and secure systems
 
-## Latest projects
+## Selected work
+
+<p class="section-lead">A few practical builds at the intersection of useful interfaces, secure systems, and deliberate engineering.</p>
 
 {% assign latest_projects = site.projects | sort: "date" | reverse %}
 {% for project in latest_projects limit: 3 %}
@@ -80,7 +88,7 @@ I am currently building academic and personal projects to strengthen my programm
 
 [See More Projects]({{ '/projects/' | relative_url }}) · [About]({{ '/about/' | relative_url }})
 
-## Latest blog posts
+## Field notes
 
 {% if site.posts.size > 0 %}
 {% assign latest_posts = site.posts | sort: "date" | reverse %}
