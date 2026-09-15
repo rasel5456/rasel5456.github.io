@@ -583,6 +583,12 @@ footer {
   }
 }
 
+main h1.post-title,
+main h1.page-title {
+  font-size: clamp(2rem, 4vw, 3rem) !important;
+  line-height: 1.04 !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
